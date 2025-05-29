@@ -45,7 +45,6 @@ LinkedIn
 ├── assets/          Recursos estáticos: imágenes, íconos
 ├── css/             Hojas de estilo personalizadas
 ├── js/              Scripts de interacción
-├── php/             Lógica del sitio y funciones
 ├── index.php        Página principal
 └── README.md        Documentación del proyecto
 
